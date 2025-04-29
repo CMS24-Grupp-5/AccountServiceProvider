@@ -173,3 +173,4 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Debug\net9.0\Presentation.pdb
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Debug\net9.0\Presentation.genruntimeconfig.cache
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Debug\net9.0\ref\Presentation.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Debug\net9.0\Presentation.sourcelink.json
