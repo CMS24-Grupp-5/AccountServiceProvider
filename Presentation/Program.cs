@@ -1,20 +1,21 @@
 
 
+using Business.Services;
+using Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.EntityFrameworkCore;
-using Presentation.Data;
 using Presentation.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddGrpc();
 
 
 
 builder.Services.AddDbContext<DataContext>(x=>x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<AccountUserService, AccountUserService>();
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(x =>
 {
     x.SignIn.RequireConfirmedEmail = true;  
@@ -26,9 +27,8 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(x =>
 
 var app = builder.Build();
 
-app.MapGrpcService<AccountService>();
+app.MapGrpcService<GrpcService>();
 
-// Configure the HTTP request pipeline.
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client.");
 
 app.Run();
