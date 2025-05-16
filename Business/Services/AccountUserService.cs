@@ -1,10 +1,11 @@
-﻿using Domain.Models;
+﻿using Business.Intefaces;
+using Domain.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Business.Services;
 
-public class AccountUserService(UserManager<IdentityUser> userManager)
+public class AccountUserService(UserManager<IdentityUser> userManager) : IAccountUserService
 {
     private readonly UserManager<IdentityUser> _userManager = userManager;
 

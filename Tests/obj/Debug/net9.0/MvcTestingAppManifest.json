@@ -1,0 +1,6 @@
+{
+  "Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Business",
+  "Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Data",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Domain",
+  "Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Presentation"
+}

@@ -266,6 +266,12 @@
             "projectReferences": {
               "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Business\\Business.csproj": {
                 "projectPath": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Business\\Business.csproj"
+              },
+              "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Data\\Data.csproj"
+              },
+              "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\yaaru\\Documents\\Asp.net2\\Backend\\AcountProvider\\AcountServiceProvide\\Domain\\Domain.csproj"
               }
             }
           }
@@ -299,6 +305,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
             }
           },
           "imports": [

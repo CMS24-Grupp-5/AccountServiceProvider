@@ -1,10 +1,11 @@
-﻿using Business.Services;
+﻿using Business.Intefaces;
+using Business.Services;
 using Domain.Models;
 using Grpc.Core;
 
 namespace Presentation.Services;
 
-public class GrpcService(AccountUserService accountService) : AccountGrpcService.AccountGrpcServiceBase
+public class GrpcService(IAccountUserService accountService) : AccountGrpcService.AccountGrpcServiceBase
 {
     public override async Task<CreateAccountReply> CreateAccount(CreateAccountRequest request, ServerCallContext context)
     {
