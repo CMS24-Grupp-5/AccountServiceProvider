@@ -179,4 +179,13 @@ public class AccountUserService(UserManager<IdentityUser> userManager) : IAccoun
         var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
         return new TokenResponseResult { Success = true, Message = "Token generated", Token = token };
     }
+
+    public async Task<BaseResponseResult> ExistAsync(string id)
+    {
+        var user = await _userManager.FindByIdAsync(id);
+        if (user == null)
+            return new BaseResponseResult { Success = false, Message = "User not found" };
+        return new BaseResponseResult { Success = true, Message = "User exists" };
+    }
+
 }

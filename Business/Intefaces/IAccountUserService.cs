@@ -8,6 +8,7 @@ namespace Business.Intefaces
         Task<BaseResponseResult> ConfirmEmailChange(string userId, string newEmail, string token);
         Task<CreateResponseResult> CreateUserAccount(string email, string password);
         Task<BaseResponseResult> DeleteAccount(string userId);
+        Task<BaseResponseResult> ExistAsync(string id);
         Task<TokenResponseResult> GenerateEmailConfirmationToken(string email);
         Task<TokenResponseResult> GeneratePasswordResetToken(string email);
         Task<AccountResponse> GetAccountById(string userId);

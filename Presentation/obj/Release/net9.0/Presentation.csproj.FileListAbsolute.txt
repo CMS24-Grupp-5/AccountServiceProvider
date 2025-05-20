@@ -174,3 +174,10 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\Presentation.pdb
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\Presentation.genruntimeconfig.cache
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\ref\Presentation.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Business.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Data.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Domain.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Business.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Data.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\Domain.pdb

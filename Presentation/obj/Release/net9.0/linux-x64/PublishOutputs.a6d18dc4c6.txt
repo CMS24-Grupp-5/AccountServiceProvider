@@ -189,6 +189,8 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Cors.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.Extensions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.dll
@@ -279,6 +281,8 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Hosting.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Http.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Localization.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Logging.Configuration.dll
@@ -321,13 +325,12 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Grpc.Net.Client.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Grpc.Net.ClientFactory.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Grpc.Net.Common.dll
-C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
@@ -335,8 +338,6 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
-C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Extensions.Options.dll
@@ -362,4 +363,10 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.Security.Permissions.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.Text.Json.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Business.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Data.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Domain.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Business.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Data.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Domain.pdb
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Presentation.deps.json

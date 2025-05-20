@@ -470,3 +470,10 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\libhostpolicy.so
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\libmscordaccore.so
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\libmscordbi.so
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Business.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Data.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Domain.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Business.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Data.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Domain.pdb
