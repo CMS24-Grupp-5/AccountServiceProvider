@@ -477,3 +477,9 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Business.pdb
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Data.pdb
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Domain.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\bin\Release\net9.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\Presentation.MvcApplicationPartsAssemblyInfo.cs

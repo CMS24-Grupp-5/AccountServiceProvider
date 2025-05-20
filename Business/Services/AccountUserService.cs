@@ -183,7 +183,7 @@ public class AccountUserService(UserManager<IdentityUser> userManager) : IAccoun
     public async Task<BaseResponseResult> ExistAsync(string id)
     {
         var user = await _userManager.FindByIdAsync(id);
-        if (user == null)
+        if (user == null)   
             return new BaseResponseResult { Success = false, Message = "User not found" };
         return new BaseResponseResult { Success = true, Message = "User exists" };
     }

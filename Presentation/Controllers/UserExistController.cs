@@ -12,7 +12,7 @@ namespace Presentation.Controllers
         private readonly IAccountUserService _accountUserService = accountUserService;
 
         [HttpPost("userexist")]
-        public async Task<IActionResult> UserExist(string id)
+        public async Task<IActionResult> UserExist([FromQuery] string id)
         {
             var result = await _accountUserService.ExistAsync(id);
             if (result.Success)

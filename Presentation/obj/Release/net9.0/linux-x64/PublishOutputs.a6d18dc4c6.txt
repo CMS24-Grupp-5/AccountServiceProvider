@@ -326,6 +326,7 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Grpc.Net.ClientFactory.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Grpc.Net.Common.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
@@ -350,8 +351,12 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Pr
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.ClientModel.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Presentation\obj\Release\net9.0\linux-x64\PubTmp\Out\System.Drawing.Common.dll
