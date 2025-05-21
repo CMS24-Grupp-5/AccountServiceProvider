@@ -18,6 +18,22 @@
     ]
   },
   {
+    "ContainingType": "Presentation.Controllers.RolesController",
+    "Method": "GetRoles",
+    "RelativePath": "api/Roles/getroles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Presentation.Controllers.UserExistController",
     "Method": "UserExist",
     "RelativePath": "api/UserExist/userexist",

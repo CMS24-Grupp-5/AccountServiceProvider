@@ -5,20 +5,25 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Business.Services;
 
-public class AccountUserService(UserManager<IdentityUser> userManager) : IAccountUserService
+public class AccountUserService(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager) : IAccountUserService
 {
     private readonly UserManager<IdentityUser> _userManager = userManager;
+    private readonly RoleManager<IdentityRole> _roleManager= roleManager; 
 
-    public async Task<CreateResponseResult> CreateUserAccount(string email, string password)
+    public async Task<CreateResponseResult> CreateUserAccount(string email, string password,string roleName="user")
     {
         var user = new IdentityUser { Email = email, UserName = email };
         var result = await _userManager.CreateAsync(user, password);
-
+        if(result.Succeeded)
+        {
+            await AddUserToRoleAsync(user.Id, roleName);
+        }
         return new CreateResponseResult
         {
             UserId = user.Id,
             Success = result.Succeeded,
             Message = result.Succeeded ? "User created successfully" : string.Join(", ", result.Errors.Select(e => e.Description))
+
         };
     }
 
@@ -183,9 +188,50 @@ public class AccountUserService(UserManager<IdentityUser> userManager) : IAccoun
     public async Task<BaseResponseResult> ExistAsync(string id)
     {
         var user = await _userManager.FindByIdAsync(id);
-        if (user == null)   
+        if (user == null)
             return new BaseResponseResult { Success = false, Message = "User not found" };
         return new BaseResponseResult { Success = true, Message = "User exists" };
+    }
+
+
+    public async Task<BaseResponseResult> AddUserToRoleAsync(string userId, string roleName)
+    {
+        var roleExists = await _roleManager.RoleExistsAsync(roleName);
+        if (!roleExists)
+        {
+            return new BaseResponseResult { Success = false, Message = "Role does not exist" };
+        }
+
+        var user = await _userManager.FindByIdAsync(userId);
+        if (user == null)
+        {
+            return new BaseResponseResult { Success = false, Message = "User does not exist" };
+        }
+
+        var userRoles = await _userManager.GetRolesAsync(user);
+        if (userRoles.Contains(roleName))
+        {
+            return new BaseResponseResult { Success = true };
+        }
+
+        var roleResult = await _userManager.AddToRoleAsync(user, roleName);
+        if (!roleResult.Succeeded)
+        {
+            return new BaseResponseResult { Success = false, Message = "Failed to assign role" };
+        }
+
+        return new BaseResponseResult { Success = true, };
+    }
+
+    public async Task<List<string>> GetRoleAsync(string userId)
+    {
+        var user = await _userManager.FindByIdAsync(userId);
+        if (user == null)
+        {
+            return new List<string>();
+        }
+        var roles = await _userManager.GetRolesAsync(user);
+        return roles.ToList();
     }
 
 }
