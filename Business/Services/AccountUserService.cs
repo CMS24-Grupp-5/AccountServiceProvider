@@ -46,13 +46,13 @@ public class AccountUserService(UserManager<IdentityUser> userManager, RoleManag
         {
             Success = true,
             Message = users.Count > 0 ? "Users retrieved successfully" : "No users found",
-            Accounts = users.Select(u => new AccountDto
+            Accounts = [.. users.Select(u => new AccountDto
             {
                 UserId = u.Id,
                 Email = u.Email!,
                 UserName = u.UserName,
                 PhoneNumber = u.PhoneNumber
-            }).ToList()
+            })]
         };
     }
 

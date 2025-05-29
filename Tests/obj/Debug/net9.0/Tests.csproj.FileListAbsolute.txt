@@ -474,3 +474,8 @@ C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Te
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Grpc.Net.Common.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Presentation.dll
 C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Presentation.pdb
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yaaru\Documents\Asp.net2\Backend\AcountProvider\AcountServiceProvide\Tests\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
