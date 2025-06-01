@@ -14,7 +14,8 @@ namespace Business.Intefaces
         Task<TokenResponseResult> GeneratePasswordResetToken(string email);
         Task<AccountResponse> GetAccountById(string userId);
         Task<AccountListResponse> GetAllAccounts();
-        Task<List<string>> GetRoleAsync(string userId);
+
+        Task<RoleResponse<string>> GetRoleAsync(string userId);
         Task<BaseResponseResult> ResetPassword(string email, string token, string newPassword);
         Task<TokenResponseResult> UpdateEmail(string userId, string newEmail);
         Task<BaseResponseResult> UpdatePhoneNumber(string userId, string phoneNumber);

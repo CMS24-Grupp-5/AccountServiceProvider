@@ -221,7 +221,7 @@ public class AccountUserService_Tests(Microsoft.AspNetCore.Mvc.Testing.WebApplic
 
         Assert.True(user.Success);
         Assert.True(userRole.Success);
-        Assert.Equal(new List<string> { "Admin" }, role.ToList());
+        Assert.Equal(new List<string> { "Admin" }, role.Roles!.ToList());
     }
 
 
@@ -239,7 +239,7 @@ public class AccountUserService_Tests(Microsoft.AspNetCore.Mvc.Testing.WebApplic
 
         Assert.True(user.Success);
         Assert.True(userRole.Success);
-        Assert.Equal(new List<string> { "Manager" }, role.ToList());
+        Assert.Equal(new List<string> { "Manager" }, role.Roles!.ToList());
     }
 
 
