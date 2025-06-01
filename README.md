@@ -113,5 +113,5 @@ service AccountGrpcService {
 ```
 Sekvensdiagram
 Nedan visas ett förenklat flöde när t.ex. ett konto skapas via en annan tjänst eller hämta en role via Rest:
-![Registreringsflöde](Presentation/Properties/Images/AccountService_SignUp.png)
-![Registreringsflöde](Presentation/Properties/Images/AccoutnService_Role.png)
+![Registreringsflöde](Presentation/Images/AccountService_SignUp.png)
+![Registreringsflöde](Presentation/Images/AccoutnService_Role.png)
